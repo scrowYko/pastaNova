@@ -1,7 +1,7 @@
 export default function(){
     return(
     <section className="banner">
-        <img src="./banner.jpg" />
+        <img src="./mg.png" />
       </section>
     )
 }

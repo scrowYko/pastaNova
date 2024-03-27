@@ -1,7 +1,7 @@
-export default function(){
-    return (
-        <header className="header">
-        <h1>gay?</h1>
-      </header>
-    )
+export default function () {
+  return (
+    <header className="header">
+      <h1>Bandeiras</h1>
+    </header>
+  );
 }
